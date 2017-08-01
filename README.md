@@ -1,0 +1,1 @@
+These are Eclipse Java Training Examples Projects
